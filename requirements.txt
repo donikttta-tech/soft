@@ -1,0 +1,8 @@
+aiogram==3.7.0
+opencv-python==4.9.0.80
+ultralytics==8.2.0
+numpy==1.26.4
+aiofiles==23.2.1
+Pillow==10.3.0
+torch==2.3.0
+torchvision==0.18.0
